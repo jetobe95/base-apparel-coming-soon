@@ -1,0 +1,10 @@
+.header-container {
+  grid-area: header;
+  align-self: center;
+}
+
+.header-logo {
+  max-width: 5.2rem;
+  margin-left: 1.9rem;
+  object-fit: contain;
+}

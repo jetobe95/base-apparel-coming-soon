@@ -1,5 +1,10 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+
+## Get Started
+ - Run Sass compiler `sass --watch styles\sass\styles.scss styles\css\styles.css`
+ - Run pug compiler `pug --watch --pretty  index.pug index.html`
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
